@@ -1,0 +1,16 @@
+.box {
+    background-color: #444444;
+    opacity: .25;
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+    font-size: 26px;
+    line-height: 26px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.box-default {
+    background-color: #ff6c00;
+    opacity: 1;
+}
