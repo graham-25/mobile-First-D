@@ -1,3 +1,7 @@
+body {
+    padding: 0 20px;
+}
+
 .box {
     background-color: #444444;
     opacity: .25;
